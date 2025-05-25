@@ -86,7 +86,7 @@ const AllProjects = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
           <Link 
-            to="/ezana3456" 
+            to="#my-portfolio" 
             className="inline-flex items-center text-red-500 hover:text-red-600 font-medium transition-colors duration-300"
           >
             <FaArrowLeft className="mr-2" /> Back to Home
