@@ -134,7 +134,7 @@ const Projects = () => {
           transition={{ delay: 0.3 }}
         >
           <a 
-            href="/my-portfolio/projects" 
+            href="/my-portfolio/projects " 
             className="inline-flex items-center gap-2 bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg font-medium transition-colors duration-300 shadow-lg hover:shadow-xl"
           >
             View All Projects <FaExternalLinkAlt />
